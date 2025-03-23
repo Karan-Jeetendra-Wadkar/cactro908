@@ -5,25 +5,26 @@
     grid-template-columns: 1fr 1fr ;
     grid-template-rows:300px 1fr 1fr ;
     gap: 150px;
+    margin-right: 20px;
 }
 
 
 
 .Box1{
-    padding: 25px;
+    padding: 16px;
 
 
 }
 
 .section1{
     font-weight: bold;
-    font-size: 52px;
+    font-size: 34px;
 }
 
 .section2{
     font-weight: bold;
-    font-size: 16px;
-    padding: 12px;
+    font-size: 14px;
+    padding: 10px;
 }
 
 .section3{
@@ -35,12 +36,13 @@
 
 
 .fbtn{
-    width: 200px;
-    height: 70px;
+    width: 150px;
+    height: 43px;
     background-color: rgb(17, 50, 17);
     color: white;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: bold;
+    border-radius: 7px;
 }
 
 .sbtn{
@@ -48,17 +50,19 @@
     justify-content: start;
     align-items: center;
     width: 100%;
-    height: 70px;
+    height: 43px;
     background-color: rgb(89, 84, 228);
     color: white;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: bold;
+    border-radius: 7px;
+
     
 }
 
 
 .sbtn>img{
-    width: 61px;
+    width: 34px;
     height: 100%;
 
 }
@@ -72,7 +76,7 @@
 
 .main{
     width: 100%;
-    height: 34px;
+    height: 25px;
     background-color: rgb(62, 7, 7);
     
 }
@@ -84,19 +88,19 @@
 
 .fBox{
     width: 30%;
-    height:261px ;
+    height:173px ;
     background-color: rgb(30, 50, 49);
     border: 1px solid black;
 }
 li{
     color: white;
-    font-size: 18px;
+    font-size: 12px;
     padding: 9px;
 }
 
 .sBox{
     width: 70%;
-    height:261px ;
+    height:173px ;
     border: 1px solid black;
 }
 
@@ -105,8 +109,8 @@ li{
     align-items: center;
 }
 .main>img{
-    width: 72px;
-    height: 32px;
+    width: 62px;
+    height: 22px;
 }
 
 
@@ -136,32 +140,31 @@ li{
 }
 
 .firstD{
-    font-size: 25px;
+    font-size: 12px;
     display: flex;
     gap: 70px;
-    padding: 25px;
+    padding: 16px;
 }
 
 .switch{
     width: 100%;
     display: flex;
     align-items: center;
-    margin-bottom: 7px;
     margin-left: 25px;
     
     
     
 }
 .switchImg{
-    width: 43px;
-    height: 43px;
+    width: 34px;
+    height: 34px;
     border-radius: 100%;
 
 }
 
 .switchto{
 padding: 12px;
-font-size:18px ;
+font-size:12px ;
 }
 
 .acName{

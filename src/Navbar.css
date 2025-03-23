@@ -13,12 +13,12 @@
 .fontBold{
     align-items: center;
     font-weight: bold;
-    font-size:34px ;
+    font-size:25px ;
     
 }
 .fontBold>img{
-    width: 180px;
-    height: 70px;
+    width: 121px;
+    height: 44px;
 }
 
 
@@ -26,12 +26,12 @@
     color: black;
     
     display: flex;
-    gap: 64px;
+    gap: 30px;
     align-items: center;
 
 }
 .links a{
-    font-size: 22px;
+    font-size: 16px;
     text-decoration: none;
     color: black;
 }
@@ -48,13 +48,13 @@
 
 
 .bellImg{
-    width:20px;
-    height: 20px;
+    width:18px;
+    height: 18px;
 }
 
 .btn1{
     font-weight:bold ;
-    height: 43px;
+    height: 34px;
     width: 81px;
     background-color: white;
     color: black;
@@ -62,7 +62,7 @@
 }
 .btn2{
     border-radius: 7px;
-    height: 43px;
+    height: 34px;
     width: 150px;
     background-color: white;
     color: black;
@@ -79,12 +79,13 @@
 }
 
 .line{
+    font-size: 14px;
     position: relative;
     right: 43px;
     display: flex;
     align-items: center;
     width: 100%;
-    height: 25px;
+    height: 10px;
     padding: 25px;
     border-radius: 52px;
     color: white;

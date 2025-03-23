@@ -10,7 +10,7 @@ const LastBox = () => {
         <div className="box2">
         <div className="Box1">
         <div className="fsection1">Now is your moment to build a better tommorow</div>
-        <div className="section2">Lorem ipsum dolor sit amr ex fugi suscipit exercitationem dolorem pariatur veritatis? Officia, pariatur maiores facere sit commodi perferendis doloremque.</div>
+        <div className="fsection2">Lorem ipsum dolor sit amr ex fugi suscipit exercitationem dolorem pariatur veritatis? Officia, pariatur maiores facere sit commodi perferendis doloremque.</div>
         <div className="section3">
             <button className='fbtn1'>WATCH VIDEO</button>
             </div>
