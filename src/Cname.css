@@ -1,0 +1,40 @@
+
+.images{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:-300px ;
+}
+.img1{
+
+    width: 61px;
+    height: 52px;
+}
+.img2{
+
+    width: 200px;
+    height: 120px;
+}
+
+.img3{
+
+    width: 120px;
+    height: 92px;
+}
+
+.img4{
+
+    width: 200px;
+    height: 202px;
+}
+.img5{
+
+    width: 100px;
+    height: 34px;
+}
+
+.img6{
+
+    width: 100px;
+    height: 90px;
+}

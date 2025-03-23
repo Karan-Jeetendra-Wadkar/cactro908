@@ -1,0 +1,68 @@
+
+
+.container1{
+    margin-top: -52px;
+    display: flex;
+    gap: 100px;
+}
+
+.box1{
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.box2{
+    width: 100%;
+    height: 100%;
+
+}
+
+.frame{
+    width: 100%;
+    height: 325px;
+}
+
+.fbtn1{
+    width: 200px;
+    height: 70px;
+   background-color: white;
+   color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.fsection1{
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.dabba{
+    border: 1PX solid black;
+    width: 350PX;
+    height: 350PX;
+    position: absolute;
+    right: 0px;
+    bottom: 52px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+
+}
+
+.lbtn{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(17, 50, 17);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.text{
+    padding-bottom: 25px;
+    font-size: 20px;
+}
